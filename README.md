@@ -1,10 +1,10 @@
-🚀 Olá! Eu sou Igor Marcondes
+# **🚀 Olá, eu sou Igor Marcondes!**
+## **💻 Desenvolvedor Front-End em formação**
 
-💻 Desenvolvedor Front-End em formação
-📚 Estudando HTML, CSS e JavaScript
-🎯 Focado em evoluir todos os dias e construir projetos práticos
-🔥 Em busca da minha primeira oportunidade como desenvolvedor
-
+✨ Transformando linhas de código em experiências digitais
+📚 Atualmente estudando HTML, CSS e JavaScript
+🎯 Foco total em evolução diária e projetos práticos
+🔥 Determinado a conquistar minha primeira oportunidade como Desenvolvedor
 🚀 Tecnologias que estou estudando
 <div style="display: inline_block"><br> <img align="center" alt="Igor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
