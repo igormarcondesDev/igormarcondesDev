@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolv
 Atualmente estou focado em fortalecer minha base com **HTML e CSS**, desenvolvendo pequenos projetos práticos para ganhar experiência real.
 
 Acredito que **consistência é mais importante que velocidade**.  
-Estou evoluindo um pouco todos os dias. 💪
+Estou evoluindo um pouco todos os dias. 
 
 ---
 
