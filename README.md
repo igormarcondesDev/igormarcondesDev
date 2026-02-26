@@ -1,76 +1,42 @@
-<h1 align="center">Olá 👋 Eu sou Igor Marcondes</h1>
+# 👋 Olá, eu sou Igor Marcondes!
 
-<p align="center">
-  💻 Desenvolvedor Front-End em formação <br>
-  📚 Estudando HTML, CSS e JavaScript <br>
-  🚀 Em evolução constante
-</p>
+💻 Desenvolvedor Front-End em formação  
+🚀 Estudando HTML, CSS e JavaScript  
+📚 Focado em evoluir todos os dias  
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧠 Sobre mim
 
-<img align="right" alt="Igor-avatar" height="180" 
-src="https://i.imgur.com/placeholder.png">
+Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor front-end.  
+Atualmente estou estudando HTML e CSS e praticando através de pequenos projetos para fortalecer minha base.
 
-- 🎯 Focado em me tornar um Desenvolvedor Front-End
-- 📚 Atualmente estudando HTML, CSS e JavaScript
-- 🔥 Praticando projetos todos os dias
-- 🚀 Buscando minha primeira oportunidade
+Acredito que consistência é mais importante que velocidade. Estou evoluindo um pouco todos os dias. 💪
 
 ---
 
-## 🚀 Tecnologias que estou estudando
+## 🛠️ Tecnologias que estou aprendendo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Igor-HTML" height="40" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="Igor-CSS" height="40" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img align="center" alt="Igor-JS" height="40" width="40"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+- HTML5
+- CSS3
+- JavaScript (iniciando)
+- Git e GitHub
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🎯 Objetivo
 
-<div align="center">
-  <img height="170em"
-  src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="170em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+Meu objetivo é me tornar um desenvolvedor front-end profissional e trabalhar criando interfaces modernas, responsivas e bem estruturadas.
 
 ---
 
-## 🏆 Conquistas
+## 📈 Em constante evolução...
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&row=1&margin-w=15&margin-h=15"/>
-</div>
-
----
-
-## 🐍 Minhas Contribuições
-
-![Snake animation](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
+Estou sempre praticando e melhorando meus projetos.  
+Cada repositório aqui representa um passo na minha evolução 🚀
 
 ---
 
-## 🌎 Conecte-se comigo
+## 📫 Contato
 
-<div> 
-  <a href="https://www.linkedin.com/in/igormarcondes68a23a4" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
-
-## ⚡ Frase
-
-> "Consistência vence talento quando o talento não é consistente."
+🔗 LinkedIn: https://www.linkedin.com/in/igormarcondes68a23a4
