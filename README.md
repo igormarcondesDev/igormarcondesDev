@@ -25,10 +25,6 @@ Estou evoluindo um pouco todos os dias. 💪
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
 </p>
 
-- HTML5  
-- CSS3  
-- JavaScript  
-
 ---
 
 ## 🧠 O que eu faço
@@ -51,6 +47,10 @@ Meu objetivo é me tornar um desenvolvedor Front-End profissional e trabalhar cr
 ---
 
 ## 📫 Contato
+
+<a href="mailto:igormarcondes961@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <a href="https://www.linkedin.com/in/igormarcondes68a23a4" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
