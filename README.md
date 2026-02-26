@@ -32,6 +32,3 @@
 
 Meu objetivo é dominar o desenvolvimento Front-End, criar interfaces modernas e responsivas e me tornar um desenvolvedor cada vez mais completo.
 
-⚡ Frase que me define
-
-"Consistência vence talento quando o talento não é consistente."
