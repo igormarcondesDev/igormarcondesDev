@@ -1,34 +1,71 @@
-# **🚀 Olá, eu sou Igor Marcondes!**
-## **💻 Desenvolvedor Front-End em formação**
+# Olá 👋, eu sou Igor Marcondes
 
-✨ Transformando linhas de código em experiências digitais
-📚 Atualmente estudando HTML, CSS e JavaScript
-🎯 Foco total em evolução diária e projetos práticos
-🔥 Determinado a conquistar minha primeira oportunidade como Desenvolvedor
-🚀 Tecnologias que estou estudando
-<div style="display: inline_block"><br> <img align="center" alt="Igor-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+🚀 **Desenvolvedor Front-End Júnior**  
+🇧🇷 Brasil
 
-<img align="center" alt="Igor-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+Construo **interfaces modernas**, **layouts responsivos** e **projetos práticos para web**.  
+Estou focado em **evoluir todos os dias**, melhorar minha lógica, escrever código limpo e construir uma base sólida no desenvolvimento front-end.
 
-<img align="center" alt="Igor-JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+Compartilho minha evolução através de projetos e estou em busca da minha **primeira oportunidade como desenvolvedor**.
 
+---
 
-</div>
-📚 Atualmente aprendendo
+## 🌐 Onde me encontrar
 
-✔ Estruturação com HTML semântico
+<p align="left">
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-SEUUSUARIO-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/igormarcondes68a23a4">
+    <img src="https://img.shields.io/badge/LinkedIn-IGOR%20MARCONDES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-✔ Estilização com CSS moderno (Flexbox e Grid)
+---
 
-✔ JavaScript básico
+## 🧠 O que eu faço
 
-✔ Organização de código
+- 💻 Desenvolvimento de interfaces com HTML, CSS e JavaScript  
+- 🎨 Criação de layouts modernos e responsivos  
+- 📱 Sites adaptados para mobile e desktop  
+- 🧩 Estruturação de páginas com boas práticas  
+- 🚀 Desenvolvimento de projetos práticos para portfólio  
+- 📚 Estudando JavaScript e evoluindo constantemente  
+- 🔍 Foco em organização e código limpo  
+- 🎯 Em busca da primeira oportunidade na área  
 
-✔ Boas práticas no Git e GitHub
+---
 
-🌎 Conecte-se comigo
-<div> <a href="https://www.linkedin.com/in/igormarcondes68a23a4" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a> <a href="mailto:SEUEMAIL@gmail.com"> <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
-🔥 Objetivo
+## 🛠️ Tecnologias
 
-Meu objetivo é dominar o desenvolvimento Front-End, criar interfaces modernas e responsivas e me tornar um desenvolvedor cada vez mais completo.
+### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"Cada linha de código é um passo mais perto do meu objetivo."_  
+
+---
+
+⭐ Se você gostar de algum projeto, deixe uma estrela  
+🤝 Aberto a oportunidades, colaborações e novos aprendizados
