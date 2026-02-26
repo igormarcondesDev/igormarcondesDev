@@ -4,7 +4,7 @@
 🇧🇷 Brasil
 
 Construo **interfaces modernas**, **layouts responsivos** e **projetos práticos para web**.  
-Estou focado em **evoluir todos os dias**, melhorar minha lógica, escrever código limpo e construir uma base sólida no desenvolvimento front-end.
+Estou focado em evoluir todos os dias, melhorar minha lógica, escrever código limpo e construir uma base sólida no desenvolvimento front-end.
 
 Compartilho minha evolução através de projetos e estou em busca da minha **primeira oportunidade como desenvolvedor**.
 
@@ -13,8 +13,8 @@ Compartilho minha evolução através de projetos e estou em busca da minha **pr
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-SEUUSUARIO-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/gormarcondesDev">
+    <img src="https://img.shields.io/badge/GitHub-GORMARCONDESDEV-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/igormarcondes68a23a4">
     <img src="https://img.shields.io/badge/LinkedIn-IGOR%20MARCONDES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -55,8 +55,8 @@ Compartilho minha evolução através de projetos e estou em busca da minha **pr
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gormarcondesDev&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormarcondesDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
