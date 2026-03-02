@@ -9,12 +9,7 @@
 - 💻 Estudando desenvolvimento Front-End
 - 📚 Praticando projetos reais para portfólio
 - 🎯 Objetivo: conquistar minha primeira vaga como Desenvolvedor Júnior
-
 ---
-
-## 🛠️ Tecnologias
-
-## 🛠️ Tecnologias
 
 ## 🛠️ Tecnologias
 
