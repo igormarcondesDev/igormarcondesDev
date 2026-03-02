@@ -22,10 +22,34 @@
 </p>
 
 ---
+📌 Projetos em Destaque
+🌐 Portfolio Pessoal
 
-## 📌 Projetos em destaque
+🔗 https://igormarcondesdev.github.io/portfolio/
+
+💡 Descrição: Meu portfólio pessoal com informações sobre mim, habilidades e contatos — projetado para apresentar meus principais trabalhos.
+🛠 Tecnologias: HTML, CSS, JavaScript
+📍 Disponível online
+
+👗 Projeto ModaOra
+
+🔗 https://igormarcondesdev.github.io/projetoModaOra/
+
+💡 Descrição: Projeto de site de moda com layout responsivo e design moderno, focado em apresentação visual de produtos.
+🛠 Tecnologias: HTML, CSS
+📍 Disponível online
+
+📚 Projeto AprenSer
+
+🔗 https://igormarcondesdev.github.io/projeto-aprenser/
+
+💡 Descrição: Site informativo criado para fins educativos, com conteúdo organizado para facilitar o aprendizado.
+🛠 Tecnologias: HTML, CSS, JavaScript
+📍 Disponível online
 
 Aqui você encontra alguns dos meus principais projetos, onde aplico na prática o que venho estudando e construindo no dia a dia.
+
+✨ Mais projetos em breve!
 
 ---
 
