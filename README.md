@@ -62,9 +62,9 @@ Nesta seção apresento alguns dos meus principais projetos, que demonstram minh
 ---
 
 ## 📈 Em aprendizado
-- JavaScript avançado  
-- Consumo de APIs  
-- Acessibilidade (A11y)  
+- JavaScript (nível intermediário)  
+- Consumo de APIs (fetch, APIs públicas)  
+- Acessibilidade (A11y – fundamentos)  
 - Responsividade avançada  
 - Boas práticas de código  
 
