@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
 </p>
 
-**Tecnologias que utilizo::**
+**Estrutura que utilizo::**
 - HTML5  
 - CSS3 (Flexbox, Grid, Responsividade)  
 - JavaScript (DOM, eventos, lógica de programação)  
