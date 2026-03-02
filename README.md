@@ -31,7 +31,7 @@ Aqui você encontra alguns dos meus principais projetos, onde aplico na prática
 
 ## 📫 Contato
 
-- LinkedIn: (coloque seu link aqui)
+- LinkedIn: https://www.linkedin.com/in/igormarcondes68a23a4/
 - Email: (coloque seu email profissional)
 
 ---
