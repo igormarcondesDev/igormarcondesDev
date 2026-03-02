@@ -22,7 +22,8 @@
 </p>
 
 ---
-📌 Projetos em Destaque
+📌 **Projetos em Destaque**
+<br>
 🌐 Portfolio Pessoal
 
 🔗 https://igormarcondesdev.github.io/portfolio/
