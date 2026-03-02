@@ -62,12 +62,12 @@ Nesta seção apresento alguns dos meus principais projetos, que demonstram minh
 
 ---
 
-### Em aprendizado 📚
-- JavaScript (nível intermediário)  
-- Consumo de APIs (fetch, APIs públicas)  
-- Acessibilidade (A11y – fundamentos)  
-- Responsividade  
-- Boas práticas de código  
+## Em aprendizado
+- JavaScript (nivel intermediario)
+- Consumo de APIs (fetch, APIs públicas)
+- Acessibilidade (A11y - fundamentos)
+- Responsividade
+- Boas praticas de código
 
 ---
 
