@@ -26,7 +26,7 @@
 - HTML5  
 - CSS3 (Flexbox, Grid, Responsividade)  
 - JavaScript (DOM, eventos, lógica de programação)  
-- React
+- Teste
 - Git e GitHub  
 
 ---
