@@ -1,57 +1,37 @@
-# 👋 Olá, eu sou Igor Marcondes!
+# 👋 Olá, eu sou o Igor Marcondes
 
-💻 **Desenvolvedor Front-End em formação**  
-🚀 Estudando **HTML, CSS e JavaScript**  
-📚 Evoluindo todos os dias com prática e consistência  
+🎯 Desenvolvedor Front-End em formação, focado em HTML, CSS e JavaScript.
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e estou no início da minha jornada como desenvolvedor Front-End.
-
-Atualmente estou focado em fortalecer minha base com **HTML e CSS**, desenvolvendo pequenos projetos práticos para ganhar experiência real.
-
-Acredito que **consistência é mais importante que velocidade**.  
-Estou evoluindo um pouco todos os dias. 
+- 💻 Estudando desenvolvimento Front-End
+- 📚 Praticando projetos reais para portfólio
+- 🎯 Objetivo: conquistar minha primeira vaga como Desenvolvedor Júnior
 
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
+## 🛠️ Tecnologias
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-</p>
-
----
-
-## 🧠 O que eu faço
-
-- 💻 Desenvolvimento de interfaces com HTML, CSS e JavaScript  
-- 🎨 Criação de layouts modernos e responsivos  
-- 📱 Projetos adaptados para mobile e desktop  
-- 🧩 Estruturação de páginas com boas práticas  
-- 🚀 Construção de projetos práticos para portfólio  
-- 📚 Estudo contínuo e evolução diária  
-- 🔍 Foco em organização e código limpo  
-- 🎯 Em busca da primeira oportunidade como desenvolvedor  
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
 
 ---
 
-## 🎯 Objetivo
+## 📌 Projetos em destaque
 
-Meu objetivo é me tornar um desenvolvedor Front-End profissional e trabalhar criando interfaces modernas, responsivas e bem estruturadas, sempre aplicando boas práticas e entregando valor real.
+Em breve você verá aqui meus principais projetos organizados e publicados.
 
 ---
 
 ## 📫 Contato
 
-<a href="mailto:igormarcondes961@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+- LinkedIn: (coloque seu link aqui)
+- Email: (coloque seu email profissional)
 
-<a href="https://www.linkedin.com/in/igormarcondes68a23a4" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+---
+
+✨ Sempre aprendendo e evoluindo.
