@@ -28,6 +28,7 @@
 - JavaScript (DOM, eventos, lógica de programação)  
 - React  
 - Git e GitHub  
+
 ---
 
 ## ✨ Diferenciais
@@ -67,6 +68,7 @@ Nesta seção apresento alguns dos meus principais projetos, que demonstram minh
 - Acessibilidade (A11y – fundamentos)  
 - Responsividade  
 - Boas práticas de código  
+
 ---
 
 ## 📫 Contato
