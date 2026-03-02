@@ -25,8 +25,7 @@
 
 ## 📌 Projetos em Destaque
 
-Nesta seção estão alguns dos meus principais projetos,  
-nos quais aplico na prática as tecnologias que venho estudando e aprimorando diariamente.
+Nesta seção estão alguns dos meus principais projetos, nos quais aplico na prática as tecnologias que venho estudando e aprimorando diariamente.
 
 ### 🌐 Portfólio Pessoal  
 🔗 https://igormarcondesdev.github.io/portfolio/  
