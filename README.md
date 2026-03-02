@@ -41,35 +41,36 @@
 ---
 
 ## 📌 Projetos em destaque
-Nesta seção apresento alguns dos meus principais projetos, que demonstram minha capacidade de transformar aprendizado em soluções práticas.
 
 ### 🌐 Portfólio Pessoal  
-🔗 https://igormarcondesdev.github.io/portfolio/  
+🔗 https://igormarcondesdev.github.io/portfolio/
 
 <p align="center">
-  <img src="<img width="1907" height="799" alt="portfolio" src="https://github.com/user-attachments/assets/fccbdae9-978f-48e4-899f-750b36dd6721" />" width="600" alt="Preview do Portfólio" />
+  <img src="https://github.com/user-attachments/assets/fccbdae9-978f-48e4-899f-750b36dd6721" width="600" alt="Preview do Portfólio" />
 </p>
 
 💡 Descrição: Portfólio pessoal com informações sobre mim, habilidades e contatos.  
 🛠 Tecnologias: HTML, CSS, JavaScript  
 
+---
+
 ### 👗 Projeto ModaOra  
-🔗 https://igormarcondesdev.github.io/projetoModaOra/  
+🔗 https://igormarcondesdev.github.io/projetoModaOra/
 
 <p align="center">
-  <img src="<img width="1276" height="703" alt="projetoModaOra" src="https://github.com/user-attachments/assets/247a83f8-d1a0-4bde-a11a-45a2949543ec" />
-" width="600" alt="Preview do Projeto ModaOra" />
+  <img src="https://github.com/user-attachments/assets/247a83f8-d1a0-4bde-a11a-45a2949543ec" width="600" alt="Preview do Projeto ModaOra" />
 </p>
 
 💡 Descrição: Site de moda com layout responsivo e foco na apresentação visual de produtos.  
 🛠 Tecnologias: HTML, CSS  
 
+---
+
 ### 📚 Projeto AprenSer  
-🔗 https://igormarcondesdev.github.io/projeto-aprenser/ 
+🔗 https://igormarcondesdev.github.io/projeto-aprenser/
 
 <p align="center">
-  <img src="<img width="1900" height="745" alt="projeto-aprenser" src="https://github.com/user-attachments/assets/eae7e1dc-73cc-4292-9775-fc46bd8544c8" />
-" width="600" alt="Preview do Projeto AprenSer" />
+  <img src="https://github.com/user-attachments/assets/eae7e1dc-73cc-4292-9775-fc46bd8544c8" width="600" alt="Preview do Projeto AprenSer" />
 </p>
 
 💡 Descrição: Site informativo para fins educativos, com conteúdo organizado para facilitar o aprendizado.  
@@ -93,12 +94,5 @@ Nesta seção apresento alguns dos meus principais projetos, que demonstram minh
 📧 E-mail: igormarcondes961@gmail.com  
 
 ---
-<img width="1907" height="799" alt="portfolio" src="https://github.com/user-attachments/assets/fccbdae9-978f-48e4-899f-750b36dd6721" />
-
-<img width="1276" height="703" alt="projetoModaOra" src="https://github.com/user-attachments/assets/247a83f8-d1a0-4bde-a11a-45a2949543ec" />
-
-<img width="1900" height="745" alt="projeto-aprenser" src="https://github.com/user-attachments/assets/eae7e1dc-73cc-4292-9775-fc46bd8544c8" />
-
 
 ✨ Sempre aprendendo e evoluindo.
-
