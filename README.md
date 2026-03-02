@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Igor Marcondes
 
-🎯 Desenvolvedor Front-End em formação, focado em HTML, CSS e JavaScript.
+🎯 Desenvolvedor Front-End em formação, com foco em HTML, CSS e JavaScript.
 
 ---
 
 ## 🚀 Sobre mim
 
 - 💻 Estudando desenvolvimento Front-End
-- 📚 Praticando projetos reais para portfólio
+- 📚 Desenvolvendo projetos reais para portfólio
 - 🎯 Objetivo: conquistar minha primeira vaga como Desenvolvedor Júnior
   
 ---
@@ -25,35 +25,36 @@
 
 ## 📌 Projetos em Destaque
 
-Nesta seção estão alguns dos meus principais projetos, 
+Nesta seção estão alguns dos meus principais projetos,  
 nos quais aplico na prática as tecnologias que venho estudando e aprimorando diariamente.
 
-### 🌐 Portfolio Pessoal  
+### 🌐 Portfólio Pessoal  
 🔗 https://igormarcondesdev.github.io/portfolio/  
 💡 **Descrição:** Meu portfólio pessoal com informações sobre mim, habilidades e contatos.  
-🛠 Tecnologias: HTML, CSS, JavaScript  
+🛠 **Tecnologias:** HTML, CSS, JavaScript  
 
 ---
 
 ### 👗 Projeto ModaOra  
 🔗 https://igormarcondesdev.github.io/projetoModaOra/  
-💡 **Descrição:** Site de moda com layout responsivo e foco em apresentação visual de produtos.  
-🛠 Tecnologias: HTML, CSS  
+💡 **Descrição:** Site de moda com layout responsivo e foco na apresentação visual de produtos.  
+🛠 **Tecnologias:** HTML, CSS  
 
 ---
 
 ### 📚 Projeto AprenSer  
 🔗 https://igormarcondesdev.github.io/projeto-aprenser/  
 💡 **Descrição:** Site informativo para fins educativos, com conteúdo organizado para facilitar o aprendizado.  
-🛠 Tecnologias: HTML, CSS, JavaScript  
+🛠 **Tecnologias:** HTML, CSS, JavaScript  
+
 ✨ Mais projetos em breve!
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: https://www.linkedin.com/in/igormarcondes68a23a4/
-- Email: igormarcondes961@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/igormarcondes68a23a4/  
+- **Email:** igormarcondes961@gmail.com  
 
 ---
 
