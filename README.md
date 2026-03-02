@@ -62,7 +62,7 @@ Nesta seção apresento alguns dos meus principais projetos, que demonstram minh
 
 ---
 
-## Em evolução
+## 🚀 Em evolução
 - JavaScript (nível intermediário)  
 - Consumo de APIs (fetch, APIs públicas)  
 - Acessibilidade (A11y – fundamentos)  
