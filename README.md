@@ -25,7 +25,7 @@
 
 ## 📌 Projetos em destaque
 
-Em breve você verá aqui meus principais projetos organizados e publicados.
+Aqui você encontra alguns dos meus principais projetos, onde aplico na prática o que venho estudando e construindo no dia a dia.
 
 ---
 
