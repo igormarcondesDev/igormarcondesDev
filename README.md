@@ -76,6 +76,19 @@
 💡 Descrição: Site informativo para fins educativos, com conteúdo organizado para facilitar o aprendizado.  
 🛠 Tecnologias: HTML, CSS, JavaScript  
 
+---
+
+### 👗 Projeto ModaOra  
+🔗 https://igormarcondesdev.github.io/projetoModaOra/
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/247a83f8-d1a0-4bde-a11a-45a2949543ec" width="600" alt="Preview do Projeto ModaOra" />
+</p>
+
+💡 Descrição: Site de moda com layout responsivo e foco na apresentação visual de produtos.  
+🛠 Tecnologias: HTML, CSS  
+
+
 ✨ Mais projetos em breve!
 
 ---
