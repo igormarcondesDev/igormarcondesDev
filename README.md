@@ -82,7 +82,7 @@
 🔗 https://igormarcondesdev.github.io/formulario-login/
 
 <p align="center">
-<img width="1349" height="670" alt="PreviewLogin" src="https://github.com/user-attachments/assets/7f74615e-0ca1-4d47-b3df-1cf3ac6471ec" />
+<img src="https://github.com/user-attachments/assets/7f74615e-0ca1-4d47-b3df-1cf3ac6471ec" width="1349" alt="PreviewLogin"  />
 </p>
 </p>
 
