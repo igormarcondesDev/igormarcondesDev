@@ -81,8 +81,9 @@
 ## 🌿 Projeto Landing Page
 
 🔗 https://igormarcondesdev.github.io/landing-page/
-
-![Preview da Landing Page](img/landing-preview.png)
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/f517600c-8613-49ff-b52c-c58d43a2254d" width="600" alt="previwLanding" />
+</p>
 
 💡 Descrição: Landing page responsiva criada para apresentação de serviços digitais.
 
