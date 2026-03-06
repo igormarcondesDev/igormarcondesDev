@@ -82,7 +82,7 @@
 
 🔗 https://igormarcondesdev.github.io/landing-page/
 <p align="center">
- <img src="https://github.com/user-attachments/assets/f517600c-8613-49ff-b52c-c58d43a2254d" width="600" alt="previwLanding" />
+<img src="https://github.com/user-attachments/assets/ef2e8148-2a25-4f3d-bcf1-0390e68c303c" width="600" alt="previw" />
 </p>
 
 💡 Descrição: Landing page responsiva criada para apresentação de serviços digitais.
