@@ -78,7 +78,7 @@
 
 ---
 
-## 🌿 Projeto Landing page
+### 🌿 Projeto Landing page
 
 🔗 https://igormarcondesdev.github.io/landing-page/
 <p align="center">
