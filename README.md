@@ -82,9 +82,10 @@
 🔗 https://igormarcondesdev.github.io/formulario-login/
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/7f74615e-0ca1-4d47-b3df-1cf3ac6471ec" width="1349" alt="PreviewLogin"  />
+<img width="1917" height="749" alt="PreviewLogin" src="https://github.com/user-attachments/assets/44573e1e-df44-4448-9f03-794b058e47cf" />
 </p>
-</p>
+
+
 
 💡 Descrição: Site de moda com layout responsivo e foco na apresentação visual de produtos.  
 🛠 Tecnologias: HTML, CSS  
