@@ -87,7 +87,7 @@
 
 
 
-💡 Descrição: Site de moda com layout responsivo e foco na apresentação visual de produtos.  
+💡 Descrição: Sistema de login responsivo que permite acesso seguro à conta do usuário, oferecendo uma experiência personalizada dentro da plataforma de moda.  
 🛠 Tecnologias: HTML, CSS  
 
 
