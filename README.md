@@ -78,17 +78,15 @@
 
 ---
 
-### 👗 Projeto Login 
-🔗 https://igormarcondesdev.github.io/formulario-login/
+## 🌿 Projeto Landing Page
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/44573e1e-df44-4448-9f03-794b058e47cf" width="600" alt="PreviewLogin" />
-</p>
+🔗 https://igormarcondesdev.github.io/landing-page/
 
+![Preview da Landing Page](img/landing-preview.png)
 
+💡 Descrição: Landing page responsiva criada para apresentação de serviços digitais.
 
-💡 Descrição: Sistema de login responsivo que permite acesso seguro à conta do usuário, oferecendo uma experiência personalizada dentro da plataforma de moda.  
-🛠 Tecnologias: HTML, CSS  
+🛠 **Tecnologias:** HTML, CSS, JavaScript
 
 
 ✨ Mais projetos em breve!
