@@ -78,11 +78,12 @@
 
 ---
 
-### 👗 Projeto ModaOra  
+### 👗 Projeto Login 
 🔗 https://igormarcondesdev.github.io/projetoModaOra/
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/247a83f8-d1a0-4bde-a11a-45a2949543ec" width="600" alt="Preview do Projeto ModaOra" />
+<img width="1349" height="670" alt="PreviewLogin" src="https://github.com/user-attachments/assets/7f74615e-0ca1-4d47-b3df-1cf3ac6471ec" />
+</p>
 </p>
 
 💡 Descrição: Site de moda com layout responsivo e foco na apresentação visual de produtos.  
