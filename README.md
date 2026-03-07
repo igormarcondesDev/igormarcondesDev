@@ -80,7 +80,7 @@
 
 ### 🌿 Projeto Landing page
 
-🔗 https://igormarcondesdev.github.io/landing-page/
+🔗 https://igormarcondesdev.github.io/portfolio/projetos/Landing-page/index.html
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ef2e8148-2a25-4f3d-bcf1-0390e68c303c" width="600" alt="previw" />
 </p>
