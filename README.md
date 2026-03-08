@@ -82,7 +82,7 @@
 
 🔗 https://igormarcondesdev.github.io/portfolio/projetos/Landing-page/index.html
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ef2e8148-2a25-4f3d-bcf1-0390e68c303c" width="600" alt="previw" />
+<img src="https://github.com/user-attachments/assets/c73004cb-1c68-4322-bae3-b8275c42ac83"  width="600" alt="previewLand1" />
 </p>
 
 💡 Descrição: Landing page responsiva criada para apresentação de serviços digitais.
