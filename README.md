@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou o Igor Marcondes
 
-🎯 Desenvolvedor Front-End em formação, com foco em HTML, CSS e JavaScript.
+💻 Desenvolvedor Front-End em formação apaixonado por criar interfaces modernas e responsivas.
+
+🚀 Atualmente focado em HTML, CSS, JavaScript e React, desenvolvendo projetos práticos para construir um portfólio sólido e conquistar minha primeira oportunidade como desenvolvedor.
 
 ---
 
