@@ -1,8 +1,10 @@
-# 👋 Olá, eu sou o Igor Marcondes
+<!-- BANNER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=260&section=header&text=Igor%20Marcondes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=20)
 
-💻 Desenvolvedor Front-End em formação apaixonado por criar interfaces modernas e responsivas.
-
-🚀 Atualmente focado em HTML, CSS, JavaScript e React, desenvolvendo projetos práticos para construir um portfólio sólido e conquistar minha primeira oportunidade como desenvolvedor.
+<!-- TEXTO ANIMADO -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;HTML+CSS+JavaScript+React;Building+Modern+Responsive+Interfaces;Always+Learning+New+Technologies"/>
+</p>
 
 ---
 
