@@ -13,7 +13,7 @@
 💻 Desenvolvedor Front-End em formação  
 ⚡ Focado na criação de interfaces **modernas, responsivas e funcionais**  
 📚 Desenvolvendo **projetos práticos para portfólio**  
-🛠 Tecnologias: **HTML • CSS • JavaScript • Git • GitHub**  
+🛠 Tecnologias: **HTML • CSS • JavaScript • React • Git • GitHub**  
 🎯 Objetivo: conquistar minha primeira vaga como **Desenvolvedor Front-End Júnior**
 
 ---
