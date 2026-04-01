@@ -1,128 +1,56 @@
-<!-- BANNER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0A0A&height=260&section=header&text=Igor%20Marcondes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=20)
+## 👋 Igor Marcondes
 
-<!-- TEXTO ANIMADO -->
+💻 Desenvolvedor Front-End  
+⚡ Crio interfaces modernas, responsivas e funcionais  
+🎯 Em busca da primeira oportunidade como Dev Júnior  
+
+---
+
+## 🚀 Tecnologias
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;HTML+CSS+JavaScript+React;Building+Modern+Responsive+Interfaces;Always+Learning+New+Technologies"/>
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 📌 Projetos
 
-💻 Desenvolvedor Front-End em formação  
-⚡ Focado na criação de interfaces **modernas, responsivas e funcionais**  
-📚 Desenvolvendo **projetos práticos para portfólio**  
-🎯 Objetivo: conquistar minha primeira vaga como **Desenvolvedor Front-End Júnior**
+🔗 **Portfólio**  
+https://igormarcondesdev.github.io/portfolio/
+
+🔗 **ModaOra**  
+https://igormarcondesdev.github.io/projetoModaOra/
+
+🔗 **AprenSer**  
+https://igormarcondesdev.github.io/projeto-aprenser/
+
+🔗 **Landing Page**  
+https://igormarcondesdev.github.io/portfolio/projetos/Landing-page/index.html
 
 ---
 
-## 🛠️ Tecnologias
+## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igormarcondesDev&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=igormarcondesDev&theme=tokyonight"/>
 </p>
-
-**Estrutura que utilizo:**
-- HTML5  
-- CSS3 (Flexbox, Grid, Responsividade)  
-- JavaScript (DOM, eventos, lógica de programação)  
-- React
-- Git e GitHub  
-
----
-
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igormarcondesDev&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormarcondesDev&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## ✨ Diferenciais
-- Código limpo e organizado  
-- Layouts responsivos  
-- Foco em boas práticas  
-- Evolução constante  
-- Projetos práticos para portfólio  
-
----
-
-## 📌 Projetos em destaque
-
-### 🌐 Portfólio Pessoal  
-🔗 https://igormarcondesdev.github.io/portfolio/
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fccbdae9-978f-48e4-899f-750b36dd6721" width="600" alt="Preview do Portfólio" />
-</p>
-
-💡 Descrição: Portfólio pessoal com informações sobre mim, habilidades e contatos.  
-🛠 Tecnologias: HTML, CSS, JavaScript  
-
----
-
-### 👗 Projeto ModaOra  
-🔗 https://igormarcondesdev.github.io/projetoModaOra/
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/247a83f8-d1a0-4bde-a11a-45a2949543ec" width="600" alt="Preview do Projeto ModaOra" />
-</p>
-
-💡 Descrição: Site de moda com layout responsivo e foco na apresentação visual de produtos.  
-🛠 Tecnologias: HTML, CSS  
-
----
-
-### 📚 Projeto AprenSer  
-🔗 https://igormarcondesdev.github.io/projeto-aprenser/
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/eae7e1dc-73cc-4292-9775-fc46bd8544c8" width="600" alt="Preview do Projeto AprenSer" />
-</p>
-
-💡 Descrição: Site informativo para fins educativos, com conteúdo organizado para facilitar o aprendizado.  
-🛠 Tecnologias: HTML, CSS, JavaScript  
-
----
-
-### 🌿 Projeto Landing page
-
-🔗 https://igormarcondesdev.github.io/portfolio/projetos/Landing-page/index.html
-<p align="center">
-<img src="https://github.com/user-attachments/assets/c73004cb-1c68-4322-bae3-b8275c42ac83"  width="600" alt="previewLand1" />
-</p>
-
-💡 Descrição: Landing page responsiva criada para apresentação de serviços digitais.
-
-🛠 **Tecnologias:** HTML, CSS, JavaScript
-
-
-✨ Mais projetos em breve!
-
----
-
-## 🚀 Em evolução
-- JavaScript (nível intermediário)  
-- Consumo de APIs (fetch, APIs públicas)  
-- Acessibilidade (A11y – fundamentos)  
-- Responsividade  
-- Boas práticas de código  
 
 ---
 
 ## 📫 Contato
-🔗 LinkedIn: https://www.linkedin.com/in/igormarcondes68a23a4/  
-📧 E-mail: igormarcondes961@gmail.com  
 
----
-
-✨ Sempre aprendendo e evoluindo.
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/igormarcondes68a23a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  </a>
+  <a href="mailto:igormarcondes961@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+  </a>
+</p>
